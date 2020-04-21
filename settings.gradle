@@ -1,0 +1,2 @@
+include ':app', ':PublishLibrary'
+rootProject.name='PublishApplication'
